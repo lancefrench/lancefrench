@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on [CKAD Certification](https://www.cncf.io/certification/ckad/)
 - 🌱 I’m currently learning [golang](https://golang.org)
-- :book: I'm currently reading [The Art of Doing Science and Engineering](https://press.stripe.com/#the-art-of-doing-science-and-engineering)
+- :book: I'm currently reading [Atomic Habits](https://jamesclear.com/atomic-habits)
 - 😄 Pronouns: he/him
 
