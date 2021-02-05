@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Terraform Associate Certification](https://www.hashicorp.com/certification/terraform-associate)
   - Coursework: https://www.udemy.com/course/terraform-beginner-to-advanced/<br>
 - 🌱 I’m currently learning [golang](https://golang.org)
-  - Coursework: https://www.udemy.com/course/learn-how-to-code/
+  - Coursework: https://www.udemy.com/course/go-the-complete-developers-guide/
   - Book: https://quii.gitbook.io/learn-go-with-tests/
   - Practical: [Leetcode February Challenge 2021](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 - :book: I'm currently [reading](https://www.goodreads.com/user/show/76485175-lance-french):<br>
