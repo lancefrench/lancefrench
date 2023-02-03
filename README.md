@@ -14,7 +14,7 @@
 - [HAPPINESS: Well-Being Advice from the World’s Leading Experts](https://www.goodreads.com/review/show/5255847359?utm_medium=api&utm_source=rss) by Duncan CJ (⭐️)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Anti-Viral Gut: Tackling Pathogens from the Inside Out](https://www.goodreads.com/review/show/5081346937?utm_medium=api&utm_source=rss) by Robynne Chutkan (⭐️4.38)
-- [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.5)
+- [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.49)
 - [Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness](https://www.goodreads.com/review/show/4974153856?utm_medium=api&utm_source=rss) by Steve Magness (⭐️4.22)
 - [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.86)
 - [Training Essentials for Ultrarunning](https://www.goodreads.com/review/show/4963519048?utm_medium=api&utm_source=rss) by Jason Koop (⭐️4.47)
