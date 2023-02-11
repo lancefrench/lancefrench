@@ -13,10 +13,10 @@
 - [The Wizard and the Prophet: Two Remarkable Scientists and Their Dueling Visions to Shape Tomorrow's World](https://www.goodreads.com/review/show/4815038944?utm_medium=api&utm_source=rss) by Charles C. Mann (⭐️4.22)
 - [HAPPINESS: Well-Being Advice from the World’s Leading Experts](https://www.goodreads.com/review/show/5255847359?utm_medium=api&utm_source=rss) by Duncan CJ (⭐️)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
-- [The Anti-Viral Gut: Tackling Pathogens from the Inside Out](https://www.goodreads.com/review/show/5081346937?utm_medium=api&utm_source=rss) by Robynne Chutkan (⭐️4.29)
+- [The Anti-Viral Gut: Tackling Pathogens from the Inside Out](https://www.goodreads.com/review/show/5081346937?utm_medium=api&utm_source=rss) by Robynne Chutkan (⭐️4.27)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.51)
 - [Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness](https://www.goodreads.com/review/show/4974153856?utm_medium=api&utm_source=rss) by Steve Magness (⭐️4.22)
-- [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.91)
+- [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.92)
 - [Training Essentials for Ultrarunning](https://www.goodreads.com/review/show/4963519048?utm_medium=api&utm_source=rss) by Jason Koop (⭐️4.45)
 - [The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to Slow Aging, Fight Disease, and Optimize Weight](https://www.goodreads.com/review/show/4832547558?utm_medium=api&utm_source=rss) by Valter Longo (⭐️3.89)
 <!-- GOODREADS-LIST:END -->
