@@ -11,7 +11,6 @@
   <!-- GOODREADS-LIST:START -->
 - [The Great Demographic Reversal: Ageing Societies, Waning Inequality, and an Inflation Revival](https://www.goodreads.com/review/show/5344115683?utm_medium=api&utm_source=rss) by Charles Goodhart (⭐️4.15)
 - [Meditations: A New Translation (Modern Library)](https://www.goodreads.com/review/show/5278903403?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️5)
-- [HAPPINESS: Well-Being Advice from the World’s Leading Experts](https://www.goodreads.com/review/show/5255847359?utm_medium=api&utm_source=rss) by Duncan CJ (⭐️5)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Anti-Viral Gut: Tackling Pathogens from the Inside Out](https://www.goodreads.com/review/show/5081346937?utm_medium=api&utm_source=rss) by Robynne Chutkan (⭐️4.3)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.5)
@@ -19,5 +18,6 @@
 - [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.96)
 - [Training Essentials for Ultrarunning](https://www.goodreads.com/review/show/4963519048?utm_medium=api&utm_source=rss) by Jason Koop (⭐️4.38)
 - [The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to Slow Aging, Fight Disease, and Optimize Weight](https://www.goodreads.com/review/show/4832547558?utm_medium=api&utm_source=rss) by Valter Longo (⭐️3.89)
+- [Us: Getting Past You and Me to Build a More Loving Relationship (Goop Press)](https://www.goodreads.com/review/show/4769814331?utm_medium=api&utm_source=rss) by Terrence Real (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
