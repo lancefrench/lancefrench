@@ -11,7 +11,7 @@
   <!-- GOODREADS-LIST:START -->
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.15)
 - [The Great Demographic Reversal: Ageing Societies, Waning Inequality, and an Inflation Revival](https://www.goodreads.com/review/show/5344115683?utm_medium=api&utm_source=rss) by Charles Goodhart (⭐️4.15)
-- [Meditations: A New Translation (Modern Library)](https://www.goodreads.com/review/show/5278903403?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️5)
+- [Meditations: A New Translation (Modern Library)](https://www.goodreads.com/review/show/5278903403?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.67)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Anti-Viral Gut: Tackling Pathogens from the Inside Out](https://www.goodreads.com/review/show/5081346937?utm_medium=api&utm_source=rss) by Robynne Chutkan (⭐️4.3)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.5)
