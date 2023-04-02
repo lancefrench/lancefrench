@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.49)
-- [The Headspace Guide to Meditation & Mindfulness](https://www.goodreads.com/review/show/5444650407?utm_medium=api&utm_source=rss) by Andy Puddicombe (⭐️3.99)
 - [The Great Demographic Reversal: Ageing Societies, Waning Inequality, and an Inflation Revival](https://www.goodreads.com/review/show/5344115683?utm_medium=api&utm_source=rss) by Charles Goodhart (⭐️4.15)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.44)
@@ -19,5 +18,6 @@
 - [Training Essentials for Ultrarunning](https://www.goodreads.com/review/show/4963519048?utm_medium=api&utm_source=rss) by Jason Koop (⭐️4.43)
 - [The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to Slow Aging, Fight Disease, and Optimize Weight](https://www.goodreads.com/review/show/4832547558?utm_medium=api&utm_source=rss) by Valter Longo (⭐️3.89)
 - [Us: Getting Past You and Me to Build a More Loving Relationship (Goop Press)](https://www.goodreads.com/review/show/4769814331?utm_medium=api&utm_source=rss) by Terrence Real (⭐️4.31)
+- [Mastering Technical Sales: The Sales Engineer's Handbook](https://www.goodreads.com/review/show/4789866078?utm_medium=api&utm_source=rss) by John Care (⭐️4.21)
 <!-- GOODREADS-LIST:END -->
 
