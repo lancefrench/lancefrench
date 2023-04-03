@@ -12,7 +12,7 @@
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.51)
 - [The Great Demographic Reversal: Ageing Societies, Waning Inequality, and an Inflation Revival](https://www.goodreads.com/review/show/5344115683?utm_medium=api&utm_source=rss) by Charles Goodhart (⭐️4.15)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
-- [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.43)
+- [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.42)
 - [Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness](https://www.goodreads.com/review/show/4974153856?utm_medium=api&utm_source=rss) by Steve Magness (⭐️4.18)
 - [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.94)
 - [Training Essentials for Ultrarunning](https://www.goodreads.com/review/show/4963519048?utm_medium=api&utm_source=rss) by Jason Koop (⭐️4.43)
