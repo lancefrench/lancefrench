@@ -9,7 +9,7 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.59)
+- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.58)
 - [The Great Demographic Reversal: Ageing Societies, Waning Inequality, and an Inflation Revival](https://www.goodreads.com/review/show/5344115683?utm_medium=api&utm_source=rss) by Charles Goodhart (⭐️4.15)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.42)
