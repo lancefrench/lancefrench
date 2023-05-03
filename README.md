@@ -9,7 +9,7 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.51)
+- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.5)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.4)
 - [Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness](https://www.goodreads.com/review/show/4974153856?utm_medium=api&utm_source=rss) by Steve Magness (⭐️4.19)
