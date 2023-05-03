@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.51)
-- [The Great Demographic Reversal: Ageing Societies, Waning Inequality, and an Inflation Revival](https://www.goodreads.com/review/show/5344115683?utm_medium=api&utm_source=rss) by Charles Goodhart (⭐️4.15)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.4)
 - [Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness](https://www.goodreads.com/review/show/4974153856?utm_medium=api&utm_source=rss) by Steve Magness (⭐️4.19)
@@ -19,5 +18,6 @@
 - [The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to Slow Aging, Fight Disease, and Optimize Weight](https://www.goodreads.com/review/show/4832547558?utm_medium=api&utm_source=rss) by Valter Longo (⭐️3.89)
 - [Us: Getting Past You and Me to Build a More Loving Relationship (Goop Press)](https://www.goodreads.com/review/show/4769814331?utm_medium=api&utm_source=rss) by Terrence Real (⭐️4.33)
 - [Mastering Technical Sales: The Sales Engineer's Handbook](https://www.goodreads.com/review/show/4789866078?utm_medium=api&utm_source=rss) by John Care (⭐️4.21)
+- [Just Keep Buying: Proven ways to save money and build your wealth](https://www.goodreads.com/review/show/4250563939?utm_medium=api&utm_source=rss) by Nick Maggiulli (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
