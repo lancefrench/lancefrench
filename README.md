@@ -10,7 +10,7 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [The Passenger (The Passenger, #1)](https://www.goodreads.com/review/show/5532631351?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️3.6)
-- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia MD (⭐️4.48)
+- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia (⭐️4.48)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.4)
 - [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️4)
