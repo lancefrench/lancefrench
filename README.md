@@ -12,7 +12,7 @@
 - [The Passenger (The Passenger, #1)](https://www.goodreads.com/review/show/5532631351?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️3.6)
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia (⭐️4.47)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
-- [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.4)
+- [The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture](https://www.goodreads.com/review/show/4986024163?utm_medium=api&utm_source=rss) by Gabor Maté (⭐️4.41)
 - [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️4)
 - [Training Essentials for Ultrarunning](https://www.goodreads.com/review/show/4963519048?utm_medium=api&utm_source=rss) by Jason Koop (⭐️4.36)
 - [The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to Slow Aging, Fight Disease, and Optimize Weight](https://www.goodreads.com/review/show/4832547558?utm_medium=api&utm_source=rss) by Valter Longo (⭐️3.89)
