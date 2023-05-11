@@ -18,6 +18,6 @@
 - [The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to Slow Aging, Fight Disease, and Optimize Weight](https://www.goodreads.com/review/show/4832547558?utm_medium=api&utm_source=rss) by Valter Longo (⭐️3.89)
 - [Us: Getting Past You and Me to Build a More Loving Relationship (Goop Press)](https://www.goodreads.com/review/show/4769814331?utm_medium=api&utm_source=rss) by Terrence Real (⭐️4.32)
 - [Mastering Technical Sales: The Sales Engineer's Handbook](https://www.goodreads.com/review/show/4789866078?utm_medium=api&utm_source=rss) by John Care (⭐️4.21)
-- [Just Keep Buying: Proven ways to save money and build your wealth](https://www.goodreads.com/review/show/4250563939?utm_medium=api&utm_source=rss) by Nick Maggiulli (⭐️4.3)
+- [Just Keep Buying: Proven ways to save money and build your wealth](https://www.goodreads.com/review/show/4250563939?utm_medium=api&utm_source=rss) by Nick Maggiulli (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
 
