@@ -17,7 +17,7 @@
 - [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.93)
 - [Training Essentials for Ultrarunning](https://www.goodreads.com/review/show/4963519048?utm_medium=api&utm_source=rss) by Jason Koop (⭐️4.35)
 - [Us: Getting Past You and Me to Build a More Loving Relationship (Goop Press)](https://www.goodreads.com/review/show/4769814331?utm_medium=api&utm_source=rss) by Terrence Real (⭐️4.31)
-- [Just Keep Buying: Proven ways to save money and build your wealth](https://www.goodreads.com/review/show/4250563939?utm_medium=api&utm_source=rss) by Nick Maggiulli (⭐️4.28)
+- [Just Keep Buying: Proven ways to save money and build your wealth](https://www.goodreads.com/review/show/4250563939?utm_medium=api&utm_source=rss) by Nick Maggiulli (⭐️4.27)
 - [Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/4275233678?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
