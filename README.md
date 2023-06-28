@@ -10,7 +10,7 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Jan Ullrich: The Best There Never Was](https://www.goodreads.com/review/show/5649635325?utm_medium=api&utm_source=rss) by Daniel Friebe (⭐️4.31)
-- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia (⭐️4.44)
+- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/5448142453?utm_medium=api&utm_source=rss) by Peter Attia (⭐️4.43)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Us: Getting Past You and Me to Build a More Loving Relationship (Goop Press)](https://www.goodreads.com/review/show/4769814331?utm_medium=api&utm_source=rss) by Terrence Real (⭐️4.31)
 - [Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/4275233678?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.25)
