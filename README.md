@@ -15,6 +15,6 @@
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
 - [Caste: The Origins of Our Discontents](https://www.goodreads.com/review/show/3904153218?utm_medium=api&utm_source=rss) by Isabel Wilkerson (⭐️4.62)
-- [A Handbook for New Stoics: How to Thrive in a World Out of Your Control—52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Massimo Pigliucci (⭐️4.09)
+- [A Handbook for New Stoics: How to Thrive in a World Out of Your Control—52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Massimo Pigliucci (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
