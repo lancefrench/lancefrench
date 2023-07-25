@@ -11,7 +11,7 @@
   <!-- GOODREADS-LIST:START -->
 - [Demon Copperhead](https://www.goodreads.com/review/show/5037826449?utm_medium=api&utm_source=rss) by Barbara Kingsolver (⭐️4.5)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
-- [Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/4275233678?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.24)
+- [Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/4275233678?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.25)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
 - [Caste: The Origins of Our Discontents](https://www.goodreads.com/review/show/3904153218?utm_medium=api&utm_source=rss) by Isabel Wilkerson (⭐️4.62)
