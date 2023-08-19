@@ -9,7 +9,7 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.96)
+- [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.94)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
