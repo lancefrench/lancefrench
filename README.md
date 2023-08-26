@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/5783680213?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.12)
-- [Nomad Century: How Climate Migration Will Reshape Our World](https://www.goodreads.com/review/show/4965607063?utm_medium=api&utm_source=rss) by Gaia Vince (⭐️3.94)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
