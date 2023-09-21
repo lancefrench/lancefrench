@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story](https://www.goodreads.com/review/show/5840915117?utm_medium=api&utm_source=rss) by Dan   Harris (⭐️4.29)
-- [The Sympathizer (The Sympathizer #1)](https://www.goodreads.com/review/show/5833386003?utm_medium=api&utm_source=rss) by Viet Thanh Nguyen (⭐️3.99)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
