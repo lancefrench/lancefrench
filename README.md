@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Travels with Charley: In Search of America](https://www.goodreads.com/review/show/5860653614?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️4.06)
-- [10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story](https://www.goodreads.com/review/show/5840915117?utm_medium=api&utm_source=rss) by Dan   Harris (⭐️4.29)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
