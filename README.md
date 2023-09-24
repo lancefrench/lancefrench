@@ -9,6 +9,7 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [Finish What You Start: The Art of Following Through, Taking Action, Executing, & Self-Discipline](https://www.goodreads.com/review/show/5863036391?utm_medium=api&utm_source=rss) by Peter Hollins (⭐️3.58)
 - [Travels with Charley: In Search of America](https://www.goodreads.com/review/show/5860653614?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️4.06)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
