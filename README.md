@@ -10,7 +10,7 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/5878225463?utm_medium=api&utm_source=rss) by John Rossman (⭐️)
-- [Maps of Our Spectacular Bodies](https://www.goodreads.com/review/show/5876488026?utm_medium=api&utm_source=rss) by Maddie Mortimer (⭐️4)
+- [Maps of Our Spectacular Bodies](https://www.goodreads.com/review/show/5876488026?utm_medium=api&utm_source=rss) by Maddie Mortimer (⭐️4.01)
 - [Finish What You Start: The Art of Following Through, Taking Action, Executing, & Self-Discipline](https://www.goodreads.com/review/show/5863036391?utm_medium=api&utm_source=rss) by Peter Hollins (⭐️3.58)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
