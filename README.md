@@ -9,9 +9,9 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [Travel Light: Spiritual Minimalism to Live a More Fulfilled Life](https://www.goodreads.com/review/show/5887941098?utm_medium=api&utm_source=rss) by Light Watkins (⭐️3.81)
 - [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/5878225463?utm_medium=api&utm_source=rss) by John Rossman (⭐️5)
 - [Maps of Our Spectacular Bodies](https://www.goodreads.com/review/show/5876488026?utm_medium=api&utm_source=rss) by Maddie Mortimer (⭐️4)
-- [Finish What You Start: The Art of Following Through, Taking Action, Executing, & Self-Discipline](https://www.goodreads.com/review/show/5863036391?utm_medium=api&utm_source=rss) by Peter Hollins (⭐️3.58)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
