@@ -9,8 +9,8 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [Safe Haven: Investing for Financial Storms](https://www.goodreads.com/review/show/4240452400?utm_medium=api&utm_source=rss) by Mark Spitznagel (⭐️4.02)
 - [Counterweight](https://www.goodreads.com/review/show/5897903691?utm_medium=api&utm_source=rss) by Djuna (⭐️3.12)
-- [The Amazon Way: Amazon's 14 Leadership Principles](https://www.goodreads.com/review/show/5878225463?utm_medium=api&utm_source=rss) by John Rossman (⭐️5)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
