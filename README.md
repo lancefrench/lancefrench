@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Safe Haven: Investing for Financial Storms](https://www.goodreads.com/review/show/4240452400?utm_medium=api&utm_source=rss) by Mark Spitznagel (⭐️4.02)
-- [Counterweight](https://www.goodreads.com/review/show/5897903691?utm_medium=api&utm_source=rss) by Djuna (⭐️3.12)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
