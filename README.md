@@ -9,6 +9,7 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://www.goodreads.com/review/show/5911786072?utm_medium=api&utm_source=rss) by Daniel James Brown (⭐️4.35)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/4191076091?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
