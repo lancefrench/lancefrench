@@ -12,6 +12,6 @@
 - [Just Keep Buying: Proven ways to save money and build your wealth](https://www.goodreads.com/review/show/4250563939?utm_medium=api&utm_source=rss) by Nick Maggiulli (⭐️4.27)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️5)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
-- [A Handbook for New Stoics: How to Thrive in a World Out of Your Control—52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Massimo Pigliucci (⭐️4.09)
+- [A Handbook for New Stoics: How to Thrive in a World Out of Your Control—52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Massimo Pigliucci (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
 
