@@ -9,7 +9,6 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [The Wizards of Once: Never and Forever: Book 4](https://www.goodreads.com/review/show/6180615068?utm_medium=api&utm_source=rss) by Cressida Cowell (⭐️4.7)
 - [End Times: Elites, Counter-Elites, and the Path of Political Disintegration](https://www.goodreads.com/review/show/5628112867?utm_medium=api&utm_source=rss) by Peter Turchin (⭐️4.03)
 - [[The Myth of Normal] - 2022 Edition: Trauma, Illness, and Healing in a Toxic Culture - 2022, Paperback](https://www.goodreads.com/review/show/6157787033?utm_medium=api&utm_source=rss) by Everrin (⭐️4)
 - [Built to Move: The Ten Essential Habits to Help You Move Freely and Live Fully](https://www.goodreads.com/review/show/6157786081?utm_medium=api&utm_source=rss) by Kelly Starrett (⭐️4.27)
