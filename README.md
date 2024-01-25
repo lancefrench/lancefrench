@@ -14,6 +14,6 @@
 - [Built to Move: The Ten Essential Habits to Help You Move Freely and Live Fully](https://www.goodreads.com/review/show/6157786081?utm_medium=api&utm_source=rss) by Kelly Starrett (⭐️4.27)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️4.67)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
-- [A Handbook for New Stoics: How to Thrive in a World Out of Your Control—52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Massimo Pigliucci (⭐️4.03)
+- [A Handbook for New Stoics: How to Thrive in a World Out of Your Control—52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Massimo Pigliucci (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
 
