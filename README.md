@@ -10,7 +10,7 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Midlife: A Philosophical Guide](https://www.goodreads.com/review/show/6204438520?utm_medium=api&utm_source=rss) by Kieran Setiya (⭐️3.54)
-- [End Times: Elites, Counter-Elites, and the Path of Political Disintegration](https://www.goodreads.com/review/show/5628112867?utm_medium=api&utm_source=rss) by Peter Turchin (⭐️4.03)
+- [End Times: Elites, Counter-Elites, and the Path of Political Disintegration](https://www.goodreads.com/review/show/5628112867?utm_medium=api&utm_source=rss) by Peter Turchin (⭐️4.04)
 - [[The Myth of Normal] - 2022 Edition: Trauma, Illness, and Healing in a Toxic Culture - 2022, Paperback](https://www.goodreads.com/review/show/6157787033?utm_medium=api&utm_source=rss) by Everrin (⭐️4)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️4.67)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
