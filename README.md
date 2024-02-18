@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/review/show/6269411320?utm_medium=api&utm_source=rss) by Camille Fournier (⭐️4.39)
-- [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/3593092594?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.09)
 - [[The Myth of Normal] - 2022 Edition: Trauma, Illness, and Healing in a Toxic Culture - 2022, Paperback](https://www.goodreads.com/review/show/6157787033?utm_medium=api&utm_source=rss) by Everrin (⭐️4)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️4.67)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
