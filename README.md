@@ -9,7 +9,6 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [All the Birds in the Sky (All the Birds in the Sky, #1)](https://www.goodreads.com/review/show/6355961058?utm_medium=api&utm_source=rss) by Charlie Jane Anders (⭐️3.57)
 - [How to Live: Or A Life of Montaigne in One Question and Twenty Attempts at an Answer](https://www.goodreads.com/review/show/6331272907?utm_medium=api&utm_source=rss) by Sarah Bakewell (⭐️4.2)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/review/show/6269411320?utm_medium=api&utm_source=rss) by Camille Fournier (⭐️4.39)
 - [[The Myth of Normal] - 2022 Edition: Trauma, Illness, and Healing in a Toxic Culture - 2022, Paperback](https://www.goodreads.com/review/show/6157787033?utm_medium=api&utm_source=rss) by Everrin (⭐️4)
