@@ -9,7 +9,6 @@
 - Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [Everest Mountain Guide: The Remarkable Story of a Kiwi Mountaineer](https://www.goodreads.com/review/show/6462913743?utm_medium=api&utm_source=rss) by Guy Cotter (⭐️4.25)
 - [[The Myth of Normal] - 2022 Edition: Trauma, Illness, and Healing in a Toxic Culture - 2022, Paperback](https://www.goodreads.com/review/show/6157787033?utm_medium=api&utm_source=rss) by Everrin (⭐️4)
 - [Mastering Technical Sales: The Sales Engineer's Handbook, Fourth Edition](https://www.goodreads.com/review/show/5083617084?utm_medium=api&utm_source=rss) by John Care (⭐️4.67)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
