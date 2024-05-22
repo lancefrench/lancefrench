@@ -10,7 +10,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [King: A Life](https://www.goodreads.com/review/show/6473409881?utm_medium=api&utm_source=rss) by Jonathan Eig (⭐️4.67)
-- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3857554549?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [A Handbook for New Stoics: How to Thrive in a World Out of Your Control - 52 Week-by-Week Lessons: How to Thrive in a World Out of Your Control―52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Gregory Lopez (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
 
