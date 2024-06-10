@@ -1,12 +1,9 @@
 ### Hi there, I'm Lance 👋
 
-### 🔭 I’m currently working on 
-- [Terraform Associate Certification](https://www.hashicorp.com/certification/terraform-associate)
-- Coursework: https://www.udemy.com/course/terraform-beginner-to-advanced/<br>
 ### 🌱 I’m currently learning [golang](https://golang.org)
-- Coursework: https://www.udemy.com/course/go-the-complete-developers-guide/
-- Book: https://quii.gitbook.io/learn-go-with-tests/
-- Practical: [Leetcode March Challenge 2021](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021) [[Repository]](https://github.com/lancefrench/leetcode)<br>
+- Online: https://quii.gitbook.io/learn-go-with-tests/
+- Book: https://www.packtpub.com/product/test-driven-development-in-go/9781803247878
+- Practical: [LinearB API Wrapper](https://github.com/lancefrench/go-linearb)
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Thinking In Systems: A Primer](https://www.goodreads.com/review/show/3660068239?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐️4.19)
