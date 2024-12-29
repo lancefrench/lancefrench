@@ -6,6 +6,7 @@
 - Practical: [LinearB API Wrapper](https://github.com/lancefrench/go-linearb)
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness](https://www.goodreads.com/review/show/7113142269?utm_medium=api&utm_source=rss) by Jonathan Haidt (⭐️4.43)
 - [Norwegian Method: The Culture, Science, and Humans Behind the Groundbreaking Approach to Elite Endurance Performance](https://www.goodreads.com/review/show/6982325769?utm_medium=api&utm_source=rss) by Brad Culp (⭐️4)
 - [The Naked and the Dead](https://www.goodreads.com/review/show/6982316039?utm_medium=api&utm_source=rss) by Norman Mailer (⭐️3.94)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.12)
