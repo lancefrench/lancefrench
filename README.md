@@ -1,9 +1,5 @@
 ### Hi there, I'm Lance 👋
 
-### 🌱 I’m currently learning [golang](https://golang.org)
-- Online: https://quii.gitbook.io/learn-go-with-tests/
-- Book: https://www.packtpub.com/product/test-driven-development-in-go/9781803247878
-- Practical: [LinearB API Wrapper](https://github.com/lancefrench/go-linearb)
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Awareness](https://www.goodreads.com/review/show/7250747896?utm_medium=api&utm_source=rss) by Anthony de Mello (⭐️4.56)
