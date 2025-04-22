@@ -10,8 +10,8 @@ jobs:
     name: Update this repo's README with what you're currently reading
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: lancefrench/goodreads-profile-workflow@main
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: lancefrench/goodreads-profile-workflow@a1b8b48b991987cb356422d51fcc91a81a2b6e26
         with:
           # Replace this with your goodreads user id
           goodreads_user_id: "76485175"
