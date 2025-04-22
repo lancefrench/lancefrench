@@ -14,5 +14,5 @@ jobs:
       - uses: lancefrench/goodreads-profile-workflow@a1b8b48b991987cb356422d51fcc91a81a2b6e26
         with:
           # Replace this with your goodreads user id
-          goodreads_user_id: ${{ secrets.GOODREADS_USER_ID }}
+          goodreads_user_id: "{{ secrets.GOODREADS_USER_ID }}"
           shelf: "currently-reading"
