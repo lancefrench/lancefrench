@@ -2,6 +2,7 @@
 
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7824530837?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.32)
 - [Discipline Is Destiny: The Power of Self-Control (The Stoic Virtues Series)](https://www.goodreads.com/review/show/7749242505?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.45)
 - [Give First: The Power of Mentorship](https://www.goodreads.com/review/show/7660929449?utm_medium=api&utm_source=rss) by Brad Feld (⭐️4.26)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.1)
