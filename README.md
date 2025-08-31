@@ -2,7 +2,6 @@
 
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [One Hundred Years of Solitude](https://www.goodreads.com/review/show/7831064902?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️4.1)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7824530837?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.33)
 - [Give First: The Power of Mentorship](https://www.goodreads.com/review/show/7660929449?utm_medium=api&utm_source=rss) by Brad Feld (⭐️4.22)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.1)
