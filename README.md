@@ -2,7 +2,7 @@
 
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [The Picture of Dorian Gray](https://www.goodreads.com/review/show/7875707459?utm_medium=api&utm_source=rss) by Oscar Wilde (⭐️4.2)
+- [What I Talk About When I Talk About Running](https://www.goodreads.com/review/show/7952778264?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.87)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7824530837?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.32)
 - [Give First: The Power of Mentorship](https://www.goodreads.com/review/show/7660929449?utm_medium=api&utm_source=rss) by Brad Feld (⭐️4.16)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.1)
