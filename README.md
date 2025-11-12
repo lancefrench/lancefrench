@@ -2,7 +2,7 @@
 
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [Wisdom Takes Work: Learn. Apply. Repeat. (The Stoic Virtues Series)](https://www.goodreads.com/review/show/8058787411?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.18)
+- [Wisdom Takes Work: Learn. Apply. Repeat. (The Stoic Virtues Series)](https://www.goodreads.com/review/show/8058787411?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.19)
 - [The Consolations of Philosophy](https://www.goodreads.com/review/show/8055502420?utm_medium=api&utm_source=rss) by Alain de Botton (⭐️4.04)
 - [Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts](https://www.goodreads.com/review/show/8029037178?utm_medium=api&utm_source=rss) by Oliver Burkeman (⭐️4.25)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7824530837?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.32)
