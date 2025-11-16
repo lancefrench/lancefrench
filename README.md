@@ -3,7 +3,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Wisdom Takes Work: Learn. Apply. Repeat. (The Stoic Virtues Series)](https://www.goodreads.com/review/show/8058787411?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.18)
-- [The Consolations of Philosophy](https://www.goodreads.com/review/show/8055502420?utm_medium=api&utm_source=rss) by Alain de Botton (⭐️4.04)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7824530837?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.32)
 - [Give First: The Power of Mentorship](https://www.goodreads.com/review/show/7660929449?utm_medium=api&utm_source=rss) by Brad Feld (⭐️4.16)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.1)
