@@ -2,6 +2,7 @@
 
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [Memoirs of Hadrian](https://www.goodreads.com/review/show/8067325084?utm_medium=api&utm_source=rss) by Marguerite Yourcenar (⭐️4.27)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7824530837?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.32)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.1)
 - [Thinking In Systems: A Primer](https://www.goodreads.com/review/show/3660068239?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐️4.17)
