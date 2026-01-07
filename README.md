@@ -2,9 +2,8 @@
 
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
-- [The Grapes of Wrath](https://www.goodreads.com/review/show/8232532610?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️4.07)
+- [The Grapes of Wrath](https://www.goodreads.com/review/show/8232636940?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️4.36)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.09)
-- [Thinking In Systems: A Primer](https://www.goodreads.com/review/show/3660068239?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐️4.16)
 - [A Handbook for New Stoics: How to Thrive in a World Out of Your Control - 52 Week-by-Week Lessons](https://www.goodreads.com/review/show/3880315152?utm_medium=api&utm_source=rss) by Massimo Pigliucci (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
 
