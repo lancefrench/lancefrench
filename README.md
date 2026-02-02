@@ -2,6 +2,7 @@
 
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
+- [Raising Twice-Exceptional Children: A Handbook for Parents of Neurodivergent Gifted Kids](https://www.goodreads.com/review/show/8322731182?utm_medium=api&utm_source=rss) by Emily Kircher-Morris (⭐️4.45)
 - [Things Become Other Things: A Walking Memoir](https://www.goodreads.com/review/show/8303461344?utm_medium=api&utm_source=rss) by Craig Mod (⭐️4.19)
 - [The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient](https://www.goodreads.com/review/show/8236537953?utm_medium=api&utm_source=rss) by William B. Irvine (⭐️4.01)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.09)
