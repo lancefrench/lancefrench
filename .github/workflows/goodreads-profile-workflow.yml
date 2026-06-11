@@ -36,7 +36,7 @@ jobs:
           fi
           
       - name: Update Goodreads profile
-        uses: lancefrench/goodreads-profile-workflow@c23d5d95bc54f7b983c6d879e1134d61429edbc7
+        uses: lancefrench/goodreads-profile-workflow@0bf6be63e4552bddd4a052dbf14fee9dadde8523
         with:
           # Replace this with your goodreads user id
           goodreads_user_id: "${{ secrets.GOODREADS_USER_ID }}"
