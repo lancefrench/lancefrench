@@ -3,7 +3,7 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [You Can Just Do Things: The Power of Permissionless Action (Permissionless Approach Books Book 1)](https://www.goodreads.com/review/show/8811592571?utm_medium=api&utm_source=rss) by Jay Yang (⭐️4.17)
-- [Output to Outcome: An Operating Model for the Age of AI](https://www.goodreads.com/review/show/8768621762?utm_medium=api&utm_source=rss) by Mik Kersten (⭐️)
+- [Output to Outcome: An Operating Model for the Age of AI](https://www.goodreads.com/review/show/8768621762?utm_medium=api&utm_source=rss) by Mik Kersten (⭐️4)
 - [Frictionless: 7 Steps to Remove Barriers, Unlock Value, and Outpace Your Competition in the AI Era](https://www.goodreads.com/review/show/8440388595?utm_medium=api&utm_source=rss) by Nicole Forsgren (⭐️3.5)
 - [The 48 Laws of Power](https://www.goodreads.com/review/show/5380635273?utm_medium=api&utm_source=rss) by Robert Greene (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
