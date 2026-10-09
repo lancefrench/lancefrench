@@ -3,6 +3,6 @@
 ### 📚 I'm currently reading
   <!-- GOODREADS-LIST:START -->
 - [Protocols: An Operating Manual for the Human Body](https://www.goodreads.com/review/show/9005145633?utm_medium=api&utm_source=rss) by Andrew D. Huberman (⭐️3.96)
-- [Situated: Find the People and Places That Bring Out Your Best](https://www.goodreads.com/review/show/8999836573?utm_medium=api&utm_source=rss) by Angela Duckworth (⭐️4.28)
+- [Situated: Find the People and Places That Bring Out Your Best](https://www.goodreads.com/review/show/8999836573?utm_medium=api&utm_source=rss) by Angela Duckworth (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
